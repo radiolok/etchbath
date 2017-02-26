@@ -1,45 +1,45 @@
-***Оргстекло 3мм толщины:***
-* 3мм_Деталь_10_крышка_бок_большая.dxf
-Размеры: 20х336мм, без доп. обработки
-Количество: 4 шт
-* 3мм_деталь_11_крышка_низ.dxf
-Размеры: 90х336мм, отверстия
-Количество: 2 шт
-* 3мм_Деталь_13_подложка.dxf
-размеры: 90х340мм, без доп. обработки
-Количество: 2 шт
-* 3мм_деталь_6_крышка_верх.dxf
-Размеры: 100х360мм, отверстия.
-Количество: 2 шт
-* 3мм_Деталь_9_крышка_бок_малая.dxf
-Размеры: 20х90мм, без доп. обработки
-Количество: 4 шт
+***plexiglas 3mm thickness:***
+* 3mm_part_10_cover_flank.dxf
+dimensions: 20х336mm
+Quantity: 4 pcs
+* 3mm_part_11_cover_down.dxf
+dimensions: 90х336mm, holes
+Quantity: 2 pcs
+* 3mm_part_13.dxf
+dimensions: 90х340mm
+Quantity: 2 psc
+* 3mm_part_6_cover_up.dxf
+dimensions: 100х360mm, holes.
+Quantity: 2 psc
+* 3mm_part_9_cover_side_little.dxf
+dimensions: 20х90mm,
+Quantity: 4 psc
 
-***Оргстекло 8мм толщины***
-* 8мм_Деталь_1_дно.dxf
-Размеры: 100х360, прямоугольная фаска по всему контуру
-Количество: 2 шт
-* 8мм_Деталь_12_бурбулятор.dxf
-Размеры: 90х340мм, фрезеровка канала на 1/2 толщины материала, отверстия
-Количество: 2 шт
-* 8мм_Деталь_2_3_стенки.dxf
-Размеры: 400х352мм,  прямоугольная фаска на 3 кромках
-Количество: 4 шт
-* 8мм_Деталь_4_задняя_стенка.dxf
-Размеры: 100х400мм,  прямоугольная фаска на 3 кромках, углоубление на 1/2 толщины
-Количество: 2 шт
-* 8мм_Деталь_5_передняя_стенка.dxf
-Размеры: 100х400мм,  прямоугольная фаска на 3 кромках, отверстие, прорезь.
-Количество: 2 шт
- * 8мм_Деталь_7_втулка_25.dxf
-размеры: внешний диаметр 25, внутренний 16.
-Количество: 10 шт
-* 8мм_Деталь_8_втулка_10.dxf
-размеры: внешний диаметр 10, внутренний 6.
-Количество: 10 шт
-* 8мм_Деталь_14_кронштейн.dxf
-Размеры: 60х62мм, фрезеровка по контуру
-Количество: 4 шт
-* 8мм_Деталь_15_Ручка.dxf
-Размеры: 20х200мм, без доп. обработки
-Количество: 2 шт
+***plexiglas 8mm thickness***
+* 8mm_part_1_bottom.dxf
+dimensions: 100х360, facet
+Quantity: 2 psc
+* 8mm_part_12_air_presherer.dxf
+dimensions: 90х340mm, milling channel 1/2 thickness of the material, holes
+Quantity: 2 psc
+* 8mm_part_2_3_sides.dxf
+dimensions: 400х352mm,  faces 
+Quantity: 4 psc
+* 8mm_part_4_back_side.dxf
+dimensions: 100х400mm,  facet 1/2 thickness
+Quantity: 2 psc
+* 8mm_part_5_front_side.dxf
+dimensions: 100х400mm,  facet, hole, milled slot.
+Quantity: 2 psc
+ * 8mm_part_7_sleeve_25.dxf
+dimensions: outer diameter 25, inner 16.
+Quantity: 10 psc
+* 8mm_part_8_sleeve_10.dxf
+dimensions: outer diameter 10, inner 6.
+Quantity: 10 psc
+* 8mm_part_14_bracket.dxf
+dimensions: 60х62mm, 
+Quantity: 4 psc
+* 8mm_part_15_handle.dxf
+dimensions: 20х200mm,
+Quantity: 2 psc
